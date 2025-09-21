@@ -45,6 +45,6 @@ Publicação
 Este projeto está publicado no GitHub Pages, e pode ser acessado através do seguinte link:
 
 Link do GitHub Pages
-(https://felipeucaa.github.io/AtividadePratica_miniRestauranteHTML_CSS_inline_interno/)
+(https://felipeucaa.github.io/mini-restaurante-FelipeUlisses/)
 
 Desenvolvido por: FelipeUCAA
